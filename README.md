@@ -49,7 +49,7 @@ En los registros técnicos se observó:
 
 🔒 Todos los datos sensibles (SSID, BSSID, contraseñas) fueron **enmascarados** para preservar la privacidad.
 
----
+![image](https://github.com/JoseAlejandroUribe23/An-lisis-Educativo-Vulnerabilidad-WPS-PIN-en-Router-Arris-TG2482/blob/main/pin.jpg?raw=true)
 
 ## ⚙️ Análisis técnico simplificado
 - El protocolo WPS se basa en intercambiar claves generadas por un **algoritmo pseudoaleatorio (PRNG)**.  
@@ -130,4 +130,8 @@ Realiza auditorías **solo en equipos propios o con autorización explícita**.
 
 
 📎 Documento elaborado con fines educativos.  
+
+## Contacto
+
+Para cualquier consulta o sugerencia, puedes contactarme en [josealejandrouribesilva@gmail.com](joseauribe@uts.edu.co)
 
